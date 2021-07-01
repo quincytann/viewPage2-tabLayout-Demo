@@ -1,1 +1,4 @@
-# viewPage2-tabLayout-Demo
+# viewPage2+tabLayout的Demo
+使用TabLayout + ViewPager2 构建页面，共包含两个tab，每个tab要求使用Fragment进行页面展示
+1. 第一个tab 包含一个全屏的内容展示区域，底部有一个输入框及“确定”按钮，输入完成点击确定后将输入内容依次展示出来，要求退出app再进的时候默认展示出所有的历史记录
+2. 第二个tab 包含一个全屏的内容展示区域，用来展示根目录（storage）下的所有文件夹的名字,以及它们对应的最近修改时间
